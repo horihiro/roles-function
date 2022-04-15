@@ -28,12 +28,8 @@
                         }
                     },
                     "login": {
-                        "loginParameterNames": [
-                            "resource=https://graph.microsoft.com"
-                        ],
-                        "nameClaimType": "emails",
                         "scopes": [
-                            "openid"
+                            "openid", "profile"
                         ]
                     }
                 }
