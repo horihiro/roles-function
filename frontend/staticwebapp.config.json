@@ -24,7 +24,7 @@
                             "clientSecretSettingName": "AAD_CLIENT_SECRET"
                         },
                         "openIdConnectConfiguration": {
-                            "wellKnownOpenIdConfiguration": "https://hihorikaadab2c.b2clogin.com/hihorikaadab2c.onmicrosoft.com/B2C_1_signupsignin1/v2.0/.well-known/openid-configuration"
+                            "wellKnownOpenIdConfiguration": "https://hihorikaadab2c.b2clogin.com/hihorikaadab2c.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_signupsignin1"
                         }
                     },
                     "login": {
